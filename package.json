@@ -1,0 +1,22 @@
+{
+  "name": "adventofcode-mysolutions",
+  "version": "1.0.0",
+  "description": "my solutions to the advent of code",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "js",
+    "adventofcode"
+  ],
+  "author": "Thomas Cathcart",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "fs": "0.0.2",
+    "md5": "^2.0.0",
+    "mocha": "^2.3.4",
+    "request": "^2.67.0"
+  }
+}
