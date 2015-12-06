@@ -2,7 +2,10 @@
   "name": "adventofcode-mysolutions",
   "version": "1.0.0",
   "description": "my solutions to the advent of code",
-  "repository": "https://github.com/cathcart/Advent-of-Code",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cathcart/Advent-of-Code"
+  },
   "main": "index.js",
   "scripts": {
     "test": "mocha test"
